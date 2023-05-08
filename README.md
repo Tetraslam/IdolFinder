@@ -1,7 +1,7 @@
 # IdolFinder
 
 ### Features To Implement
-- [] Face detection
+- [x] Face detection
 - [ ] Idol recognition for the list below
 - [ ] Draw boxes around faces in the output folder
 - [ ] CLI for running the model on multiple files
