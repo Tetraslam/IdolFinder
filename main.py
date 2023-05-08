@@ -7,4 +7,4 @@ nayeon_encoding = face_recognition.face_encodings(known_image)[0]
 unknown_encoding = face_recognition.face_encodings(unknown_image)[0]
 
 results = face_recognition.compare_faces([nayeon_encoding], unknown_encoding)
-print(results)
+print(*results)
