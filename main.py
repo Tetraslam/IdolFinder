@@ -1,4 +1,5 @@
 import face_recognition
+# Loop through loads and encodings to enable UI to detect smoothly
 known_image = face_recognition.load_image_file("./training/nayeon.jpg")
 unknown_image = face_recognition.load_image_file("./validation/valLisa.jpg")
 
