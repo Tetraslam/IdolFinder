@@ -8,15 +8,15 @@
 
 ### Planned List of Idols
 
-1. Nayeon
-2. Jeongyeon
-3. Momo
-4. Sana
-5. Jihyo
-6. Mina
-7. Dahyun
-8. Chaeyoung
-9. Tzuyu
+1. Nayeon (TWICE)
+2. Jeongyeon (TWICE)
+3. Momo (TWICE)
+4. Sana (TWICE)
+5. Jihyo (TWICE)
+6. Mina (TWICE)
+7. Dahyun (TWICE)
+8. Chaeyoung (TWICE)
+9. Tzuyu (TWICE)
 
 
 10. Yeonjun
