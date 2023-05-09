@@ -3,7 +3,7 @@ import face_recognition
 nayeon = face_recognition.load_image_file("./training/nayeon.jpg")
 jeongyeon = face_recognition.load_image_file("./training/jeongyeon.jpg")
 
-unknown_image = face_recognition.load_image_file("./validation/valNayeon.jpg")
+unknown_image = face_recognition.load_image_file("./validation/valJeongyeon.jpg")
 
 nayeon_encoding = face_recognition.face_encodings(nayeon)[0]
 jeongyeon_encoding = face_recognition.face_encodings(jeongyeon)[0]
